@@ -1,6 +1,7 @@
 # Data-analytics-portfolio
 Collection of my Portfolio Projects for potential employers.
-
+--
+<----------------------------------------------------------------------------------------------------------------------------------------->
 # Step Count Project
 ## Description
 I took my iPhone Health Data in .xml format and 
